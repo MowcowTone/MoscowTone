@@ -13,6 +13,8 @@
 
 <a href="map_lib.md" target="_blank">map_lib.py documentation</a>
 
+<a href="postomat_point_generator.md" target="_blank">postomat_point_generator.py documentation</a>
+
 ### Dependencies
 
 ```python
