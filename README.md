@@ -27,6 +27,36 @@ pandas==1.5.1
 requests==2.28.1
 ```
 
+## Как запустить:
+
+```bash
+git clone https://github.com/MowcowTone/MoscowTone
+cd MoscowTone
+python3 main.py
+```
+
+Дополнительно
+
+* Сгененрировать координаты из БД адресов:
+  
+```bash
+python3 examples/location.py 
+```
+
+* Расчет дистанции между домами и постоматами:
+  
+```bash
+python3 examples/distance.py 
+```
+
+* Установка меток и областей по координатам:
+  
+```bash
+python3 examples/circle.py 
+```
+
+
+
 ### Команда:
 
 | NAME        | POSITION    |
