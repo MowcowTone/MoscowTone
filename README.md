@@ -1,12 +1,20 @@
 ## MoscowTone Postomat
 
-### An application that helps you find the best places to place porstomats throughout Moscow!
+### Приложение, которое поможет вам найти лучшие места для размещения портоматов по всей Москве!
 
-### Documentation
+### Документация
 
 [Документация](docs/)
 
-### Dependencies
+### Запуск
+
+Site: https://mowcowtone.github.io/MoscowTone/
+
+<a href="https://mowcowtone.github.io/MoscowTone/" target="_blank">
+    <img src="https://media.discordapp.net/attachments/1029080234730983504/1038807967006474390/image.png?width=1340&height=672" />
+</a>
+
+### Зависимости
 
 ```python
 folium==0.13.0
@@ -19,7 +27,7 @@ pandas==1.5.1
 requests==2.28.1
 ```
 
-### Team:
+### Команда:
 
 | NAME        | POSITION    |
 | ----------- | -----------|
