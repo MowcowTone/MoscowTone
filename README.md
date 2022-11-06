@@ -63,8 +63,8 @@ python3 examples/circle.py
 | ----------- | -----------|
 | [Ilya Bolshakov](https://github.com/boiluabo) | FULLSTACK | ----------------------------------------------------------------
 | [Avdyushin Dobrynya](https://github.com/Avdyushin) | FULLSTACK |
-| [Abduragim Mazanov](https://github.com/) | CAPITAN
-| [Rostislav Kurzenko](https://github.com/) | PRESENTATION
+| [Abduragim Mazanov](https://github.com/) | idea's generator
+| [Rostislav Kurzenko](https://github.com/) | idea's generator
 
 Code written by [@boiluabo](https://t.me/boiluabo) & [@itdobro](https://t.me/itdobro)
 
