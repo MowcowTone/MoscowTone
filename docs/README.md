@@ -5,13 +5,13 @@
 
 ## DOCUMENTATION
 
-<a href="" target="_blank">FOLIUM documentation</a>
+<a href="folium.md" target="_blank">FOLIUM documentation</a>
 
-<a href="" target="_blank">imba.py documentation</a>
+<a href="imba.md" target="_blank">imba.py documentation</a>
 
-<a href="" target="_blank">local.py documentation</a>
+<a href="local.md" target="_blank">local.py documentation</a>
 
-<a href="" target="_blank">map_lib.py documentation</a>
+<a href="map_lib.md" target="_blank">map_lib.py documentation</a>
 
 ### Dependencies
 
